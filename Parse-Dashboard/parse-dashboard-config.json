@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+      "serverURL": "https://immense-atoll-40385.herokuapp.com/parse",
+      "appId": "CargoApp",
+      "masterKey": "17c37aa773350048568de2134a1bf6e3",
+      "appName": "Cargo App"
+    }
+  ],
+  "users": [
+    {
+      "user":"cargoadmin",
+      "pass":"CargoApp2016##"
+    }
+  ]
+}
